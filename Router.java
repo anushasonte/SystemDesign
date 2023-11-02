@@ -1,5 +1,3 @@
-package algorithms;
-
 import models.Node;
 import models.Request;
 
